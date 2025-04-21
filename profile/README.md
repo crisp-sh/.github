@@ -7,7 +7,9 @@
   </p>
 </p>
 
----
+<p align="center">
+  <img src="../static/split.svg" alt="split" width="100%"/>
+</p>
 
 <h3 align="center">[ core systems ]</h3>
 
@@ -22,7 +24,9 @@
   <sub>Actively monitored structures and protocols.</sub>
 </p>
 
----
+<p align="center">
+  <img src="../static/split.svg" alt="split" width="100%"/>
+</p>
 
 <h3 align="center">[ contributions ]</h3>
 
@@ -32,7 +36,9 @@
   <sub>Operational Cadence</sub>
 </p>
 
----
+<p align="center">
+  <img src="../static/split.svg" alt="split" width="100%"/>
+</p>
 
 <h3 align="center">[ listen ]</h3>
 
@@ -42,7 +48,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="../static/split.svg" alt="split" width="100%"/>
+</p>
 
 <p align="center">
   <sub>Inquiries are processed via designated channels.</sub>
