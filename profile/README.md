@@ -5,7 +5,7 @@
   </div>
 </p>
 <p align="center">
-  <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 <h3 align="center"><code>1</code> core systems</h3>
 <p align="center">
@@ -23,7 +23,7 @@
   <p align="center" style="margin: 10px 0;">ACTIVELY MONITORED STRUCTURES AND PROTOCOLS.</p>
 </p>
 <p align="center">
-  <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 <h3 align="center"><code>2</code> contributions</h3>
 
@@ -33,7 +33,7 @@
   <sub>OPERATIONAL CADENCE</sub>
 </p>
 <p align="center">
-  <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 <h3 align="center"><code>3</code> listen</h3>
 <p align="center">
@@ -42,7 +42,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 <p align="center">
   <sub>INQUIRIES ARE PROCESSED VIA DESIGNATED CHANNELS.</sub>
