@@ -31,7 +31,7 @@
 <h3 align="center"><code>2</code> contributions</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/sellerscrisp" alt="Crisp.sh Contribution Graph" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sellerscrisp&bg_color=transparent&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&theme=github-compact&days=30&hide_title=true" alt="Crisp.sh Contribution Graph" width="80%"/>
   <br/>
   <sub>OPERATIONAL CADENCE</sub>
 </p>
