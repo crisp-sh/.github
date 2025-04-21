@@ -4,28 +4,27 @@
     <i>EFFICIENCY. REDEFINED.</i>
   </div>
 </p>
-
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-
 <h3 align="center"><code>1</code> core systems</h3>
-
 <p align="center">
   <!-- Replace with links to your key repositories -->
-  <a href="https://github.com/crisp-sh/landing">LANDING</a> |
-  <a href="https://github.com/crisp-sh/openwebui">ONLYPROMPT</a> |
-  <a href="https://github.com/crisp-sh/mcpo">MCPO</a> |
-  <a href="https://github.com/crisp-sh/pipelines">PIPELINES</a> |
-  <a href="https://github.com/crisp-sh/functions">FUNCTIONS</a>
+  <a href="https://github.com/crisp-sh/landing">landing</a> 
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a> 
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/mcpo">mcpo</a> 
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/pipelines">pipelines</a> 
+  <span style="margin: 0 10px;" > | </span>
+  <a href="https://github.com/crisp-sh/functions">functions</a>
   <br/>
-  <sub>Actively monitored structures and protocols.</sub>
+  <p align="center" style="margin: 10px 0;">ACTIVELY MONITORED STRUCTURES AND PROTOCOLS.</p>
 </p>
-
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-
 <h3 align="center"><code>2</code> contributions</h3>
 
 <p align="center">
@@ -33,33 +32,24 @@
   <br/>
   <sub>OPERATIONAL CADENCE</sub>
 </p>
-
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-
 <h3 align="center"><code>3</code> listen</h3>
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </p>
-
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="50%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-
 <p align="center">
-  <sub>Inquiries are processed via designated channels.</sub>
+  <sub>INQUIRIES ARE PROCESSED VIA DESIGNATED CHANNELS.</sub>
   <br/>
-  <!-- Replace with your preferred contact method: Issues, a specific repo, email link, etc. -->
-  [ <a href="https://github.com/crisp-sh/.github-public/issues"> Contact Protocol </a> ]
+  [ <a href="https://github.com/crisp-sh/.github-public/issues"> contact protocol </a> ]
 </p>
-
-<br/>
 <br />
-
 <p align="center">
-  <sub>Copyright © 2025 crisp.sh. All rights reserved.</sub>
+  <sub>© 2025 crisp.sh. ALL RIGHTS RESERVED.</sub>
 </p>
