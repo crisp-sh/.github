@@ -1,15 +1,32 @@
-<svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:rgb(50,50,50);stop-opacity:1" />
-      <stop offset="48%" style="stop-color:rgb(150,150,150);stop-opacity:1" />
-      <stop offset="52%" style="stop-color:rgb(150,150,150);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(50,50,50);stop-opacity:1" />
+    <!-- Define the gradient for the line -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4a4e69; stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#9a8c98; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a4e69; stop-opacity:1" />
     </linearGradient>
+
+    <!-- Define the glow effect filter -->
+    <filter id="glow" x="-50%" y="-150%" width="200%" height="400%">
+      <!-- Blur the original shape using a color close to the line's mid-color -->
+      <feGaussianBlur stdDeviation="3" result="coloredBlur" in="SourceGraphic"/>
+      <feComponentTransfer in="coloredBlur" result="opacityFilter">
+          <feFuncA type="linear" slope="0.8"/> <!-- Adjust slope for glow intensity -->
+      </feComponentTransfer>
+
+      <!-- Merge the glow with the original line -->
+      <feMerge>
+        <feMergeNode in="opacityFilter"/> <!-- The glow -->
+        <feMergeNode in="SourceGraphic"/> <!-- The original line on top -->
+      </feMerge>
+    </filter>
   </defs>
-  <!-- Thin, sharp line with a subtle gradient and a slight break/offset -->
-  <line x1="0" y1="5" x2="49%" y2="5" stroke="url(#grad1)" stroke-width="1"/>
-  <line x1="51%" y1="5" x2="100%" y2="5" stroke="url(#grad1)" stroke-width="1"/>
-  <!-- Optional: Add a tiny, almost invisible artifact near the center break for extra unease -->
-  <circle cx="50%" cy="5" r="0.5" fill="rgb(100,100,100)" />
+
+  <!-- Draw the line and apply the gradient and glow filter -->
+  <line x1="5%" y1="10" x2="95%" y2="10" 
+        stroke="url(#lineGrad)" 
+        stroke-width="1.5" 
+        filter="url(#glow)" />
+
 </svg> 

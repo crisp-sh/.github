@@ -11,7 +11,7 @@
   <img src="../static/divider.svg" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center"><code>1</code> core systems</h3>
+<h3 align="left"><code>1</code> core systems</h3>
 
 <p align="center">
   <!-- Replace with links to your key repositories -->
@@ -28,7 +28,7 @@
   <img src="../static/divider.svg" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center"><code>2</code> contributions</h3>
+<h3 align="left"><code>2</code> contributions</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sellerscrisp&bg_color=transparent&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&theme=github-compact&days=30&hide_title=true" alt="Crisp.sh Contribution Graph" width="80%"/>
@@ -37,10 +37,10 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" style="fill: white;" />
+  <img src="../static/divider.svg" alt="divider" width="100%" />
 </p>
 
-<h3 align="center"><code>3</code> listen</h3>
+<h3 align="left"><code>3</code> listen</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&redirect=true">
