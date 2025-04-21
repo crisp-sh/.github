@@ -14,11 +14,13 @@
   <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a> 
   <span style="margin: 0 10px;"> | </span>
-  <a href="https://github.com/crisp-sh/mcpo">mcpo</a> 
-  <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/pipelines">pipelines</a> 
   <span style="margin: 0 10px;" > | </span>
   <a href="https://github.com/crisp-sh/functions">functions</a>
+  <span style="margin: 0 10px;" > | </span>
+  <a href="https://github.com/crisp-sh/tools">tools</a>
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/mcpo">mcpo</a> 
   <br/>
   <p align="center" style="margin: 10px 0;">ACTIVELY MONITORED STRUCTURES AND PROTOCOLS.</p>
 </p>
