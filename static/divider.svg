@@ -1,0 +1,15 @@
+<svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(50,50,50);stop-opacity:1" />
+      <stop offset="48%" style="stop-color:rgb(150,150,150);stop-opacity:1" />
+      <stop offset="52%" style="stop-color:rgb(150,150,150);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(50,50,50);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Thin, sharp line with a subtle gradient and a slight break/offset -->
+  <line x1="0" y1="5" x2="49%" y2="5" stroke="url(#grad1)" stroke-width="1"/>
+  <line x1="51%" y1="5" x2="100%" y2="5" stroke="url(#grad1)" stroke-width="1"/>
+  <!-- Optional: Add a tiny, almost invisible artifact near the center break for extra unease -->
+  <circle cx="50%" cy="5" r="0.5" fill="rgb(100,100,100)" />
+</svg> 

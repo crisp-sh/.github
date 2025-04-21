@@ -3,15 +3,15 @@
   <!-- Minimalist or abstract logos work well -->
   <img src="../static/logo.svg" alt="crisp logo" width="200"/>
   <p align="center" style="font-size: 1.5rem; margin-top: -1rem;">
-    <i>[ Efficiency. Redefined. ]</i> <!-- Or choose another cryptic tagline -->
+      <sub>EFFICIENCY. REDEFINED.</sub>
   </p>
 </p>
 
 <p align="center">
-  <img src="../static/split.svg" alt="split" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center">[ core systems ]</h3>
+<h3 align="center"><code>1</code> core systems</h3>
 
 <p align="center">
   <!-- Replace with links to your key repositories -->
@@ -25,22 +25,22 @@
 </p>
 
 <p align="center">
-  <img src="../static/split.svg" alt="split" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center">[ contributions ]</h3>
+<h3 align="center"><code>2</code> contributions</h3>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/sellerscrisp" alt="Crisp.sh Contribution Graph" width="80%"/>
   <br/>
-  <sub>Operational Cadence</sub>
+  <sub>OPERATIONAL CADENCE</sub>
 </p>
 
 <p align="center">
-  <img src="../static/split.svg" alt="split" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%" style="fill: white;" />
 </p>
 
-<h3 align="center">[ listen ]</h3>
+<h3 align="center"><code>3</code> listen</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&redirect=true">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/split.svg" alt="split" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%"/>
 </p>
 
 <p align="center">
