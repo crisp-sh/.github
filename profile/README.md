@@ -1,17 +1,15 @@
 <p align="center">
-  <!-- Replace with your actual logo URL -->
-  <!-- Minimalist or abstract logos work well -->
   <img src="../static/logo.svg" alt="crisp logo" width="200"/>
-  <p align="center" style="font-size: 1.5rem; margin-top: -1rem;">
-      <sub>EFFICIENCY. REDEFINED.</sub>
-  </p>
+  <div align="center" style="font-size: 1.5rem; margin-top: -1rem;">
+    <i>EFFICIENCY. REDEFINED.</i>
+  </div>
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
-<h3 align="left"><code>1</code> core systems</h3>
+<h3 align="center"><code>1</code> core systems</h3>
 
 <p align="center">
   <!-- Replace with links to your key repositories -->
@@ -25,10 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
-<h3 align="left"><code>2</code> contributions</h3>
+<h3 align="center"><code>2</code> contributions</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sellerscrisp&bg_color=transparent&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&theme=github-compact&days=30&hide_title=true" alt="Crisp.sh Contribution Graph" width="80%"/>
@@ -37,10 +35,10 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" />
+  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
-<h3 align="left"><code>3</code> listen</h3>
+<h3 align="center"><code>3</code> listen</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&redirect=true">
@@ -49,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%"/>
+  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
 <p align="center">

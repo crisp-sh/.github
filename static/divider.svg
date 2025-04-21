@@ -1,32 +1,12 @@
-<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Define the gradient for the line -->
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4a4e69; stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#9a8c98; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4a4e69; stop-opacity:1" />
-    </linearGradient>
-
-    <!-- Define the glow effect filter -->
-    <filter id="glow" x="-50%" y="-150%" width="200%" height="400%">
-      <!-- Blur the original shape using a color close to the line's mid-color -->
-      <feGaussianBlur stdDeviation="3" result="coloredBlur" in="SourceGraphic"/>
-      <feComponentTransfer in="coloredBlur" result="opacityFilter">
-          <feFuncA type="linear" slope="0.8"/> <!-- Adjust slope for glow intensity -->
-      </feComponentTransfer>
-
-      <!-- Merge the glow with the original line -->
-      <feMerge>
-        <feMergeNode in="opacityFilter"/> <!-- The glow -->
-        <feMergeNode in="SourceGraphic"/> <!-- The original line on top -->
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Draw the line and apply the gradient and glow filter -->
-  <line x1="5%" y1="10" x2="95%" y2="10" 
-        stroke="url(#lineGrad)" 
-        stroke-width="1.5" 
-        filter="url(#glow)" />
-
+<svg width="100%" height="10" viewBox="0 0 100 10" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Removed gradient and filter for simplicity and theme compatibility.
+    Using stroke="currentColor" to inherit color from surrounding text.
+    Using viewBox and preserveAspectRatio for better scaling.
+    Increased stroke-width slightly.
+    Reduced height as filter is removed.
+  -->
+  <line x1="5" y1="5" x2="95" y2="5" 
+        stroke="currentColor" 
+        stroke-width="2" />
 </svg> 
