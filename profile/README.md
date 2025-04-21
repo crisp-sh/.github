@@ -1,11 +1,10 @@
 <p align="center">
   <!-- Replace with your actual logo URL -->
   <!-- Minimalist or abstract logos work well -->
-  <img src="../static/logo.svg" alt="crisp logo" width="400"/>
-</p>
-
-<p align="center">
-  <i>[ Efficiency. Redefined. ]</i> <!-- Or choose another cryptic tagline -->
+  <img src="../static/logo.svg" alt="crisp logo" width="100"/>
+  <p align="center" style="font-size: 1.5rem; margin-top: -1rem;">
+    <i>[ Efficiency. Redefined. ]</i> <!-- Or choose another cryptic tagline -->
+  </p>
 </p>
 
 ---
