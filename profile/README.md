@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Replace with your actual logo URL -->
   <!-- Minimalist or abstract logos work well -->
-  <img src="./static/logo.svg" alt="crisp logo" width="400"/>
+  <img src="../static/logo.svg" alt="crisp logo" width="400"/>
 </p>
 
 <p align="center">
