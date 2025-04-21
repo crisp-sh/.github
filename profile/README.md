@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="100%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
 <h3 align="center"><code>1</code> core systems</h3>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="100%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
 <h3 align="center"><code>2</code> contributions</h3>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="100%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
 <h3 align="center"><code>3</code> listen</h3>
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="../static/divider.svg" alt="divider" width="100%" height="20" style="fill: #4a4e69; stroke: #4a4e69;"/>
+  <img src="../static/glowing-divider.svg" alt="divider" width="100%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
 
 <p align="center">
