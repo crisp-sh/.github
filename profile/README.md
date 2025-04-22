@@ -49,7 +49,7 @@
 <p align="center">
   <sub>INQUIRIES ARE PROCESSED VIA DESIGNATED CHANNELS.</sub>
   <br/>
-  [ <a href="https://github.com/crisp-sh/.github-public/issues"> contact protocol </a> ]
+  [ <a href="https://github.com/crisp-sh/.github/issues"> contact protocol </a> ]
 </p>
 <br />
 <p align="center">
