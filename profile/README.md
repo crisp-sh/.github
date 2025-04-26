@@ -10,9 +10,9 @@
 <h3 align="center"><code>1</code> core systems</h3>
 <p align="center">
   <!-- Replace with links to your key repositories -->
-  <a href="https://github.com/crisp-sh/landing">landing</a> 
+  <a href="https://github.com/crisp-sh/landing">landing</a>
   <span style="margin: 0 10px;"> | </span>
-  <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a> 
+  <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a>
   <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/pipelines">pipelines</a> 
   <span style="margin: 0 10px;" > | </span>
@@ -20,9 +20,9 @@
   <span style="margin: 0 10px;" > | </span>
   <a href="https://github.com/crisp-sh/tools">tools</a>
   <span style="margin: 0 10px;"> | </span>
-  <a href="https://github.com/crisp-sh/mcpo">mcpo</a> 
-  <br/>
-  <p align="center" style="margin: 10px 0;">ACTIVELY MONITORED STRUCTURES AND PROTOCOLS.</p>
+  <a href="https://github.com/crisp-sh/mcpo">mcpo</a>
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/rankings">rankings</a> 
 </p>
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
@@ -33,15 +33,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sellerscrisp&bg_color=transparent&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&theme=github-compact&days=30&hide_title=true" alt="Crisp.sh Contribution Graph" width="80%"/>
   <br/>
   <sub>OPERATIONAL CADENCE</sub>
-</p>
-<p align="center">
-  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
-</p>
-<h3 align="center"><code>3</code> listen</h3>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sellershowland&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-  </a>
 </p>
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
