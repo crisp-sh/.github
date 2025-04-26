@@ -7,12 +7,9 @@
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-<h3 align="center"><code>1</code> core systems</h3>
+<h3 align="center"><code>1</code> dependencies</h3>
 <p align="center">
-  <!-- Replace with links to your key repositories -->
-  <a href="https://github.com/crisp-sh/landing">landing</a>
-  <span style="margin: 0 10px;"> | </span>
-  <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a>
+  <a href="https://github.com/crisp-sh/rankings">rankings</a> 
   <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/pipelines">pipelines</a> 
   <span style="margin: 0 10px;" > | </span>
@@ -21,14 +18,26 @@
   <a href="https://github.com/crisp-sh/tools">tools</a>
   <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/mcpo">mcpo</a>
-  <span style="margin: 0 10px;"> | </span>
-  <a href="https://github.com/crisp-sh/rankings">rankings</a> 
 </p>
+
 <p align="center">
   <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
 </p>
-<h3 align="center"><code>2</code> contributions</h3>
 
+<h3 align="center"><code>2</code> core systems</h3>
+<p align="center">
+  <a href="https://github.com/crisp-sh/landing">landing</a>
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/rankings">rankings</a> 
+  <span style="margin: 0 10px;"> | </span>
+  <a href="https://github.com/crisp-sh/openwebui">onlyprompt</a>
+</p>
+
+<p align="center">
+  <img src="../static/glowing-divider.svg" alt="divider" width="70%" height="50" style="fill: #4a4e69; stroke: #4a4e69;"/>
+</p>
+
+<h3 align="center"><code>3</code> contributions</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sellerscrisp&bg_color=transparent&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&theme=github-compact&days=30&hide_title=true" alt="Crisp.sh Contribution Graph" width="80%"/>
   <br/>
