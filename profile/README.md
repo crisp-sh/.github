@@ -9,8 +9,6 @@
 </p>
 <h3 align="center"><code>1</code> dependencies</h3>
 <p align="center">
-  <a href="https://github.com/crisp-sh/rankings">rankings</a> 
-  <span style="margin: 0 10px;"> | </span>
   <a href="https://github.com/crisp-sh/pipelines">pipelines</a> 
   <span style="margin: 0 10px;" > | </span>
   <a href="https://github.com/crisp-sh/functions">functions</a>
