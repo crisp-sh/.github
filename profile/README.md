@@ -7,7 +7,7 @@
   <br />
   <br />
   <div align="left">
-    We live by the "join or die" philosophy when it comes to AI--our gauranteed future, so we might as well integrate it into our workflows, else we'll be replaced.
+    We live by the "join or die" philosophy when it comes to AI--our gauranteed future--so we might as well integrate it into our workflows, else we'll be replaced.
   <br />
   <br />
   <strong>What we've built:</strong>
