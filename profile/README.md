@@ -7,7 +7,8 @@
   <br />
   <br />
   <div align="left">
-    We live by the "join or die" philosophy when it comes to AI--our gauranteed future--so we might as well integrate it into our workflows, else we'll be replaced.
+    We live by the "join or die" philosophy when it comes to AI--our guaranteed future--so we might as well integrate it into our workflows, else we'll be replaced.
+  <br />
   <br />
   <br />
   <strong>What we've built:</strong>
@@ -22,7 +23,7 @@
     <strong>What we're building:</strong>
     <ul>
       <li>
-        <em>airm</em>. An ecosystem for managing AI coding agent context, at an enterprise/orgazational level.
+        <em>airm</em>. An ecosystem for managing AI coding agent context at an enterprise/orgazational level.
       </li>
     </ul>
   </div>
