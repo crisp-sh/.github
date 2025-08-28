@@ -23,7 +23,7 @@
     <strong>What we're building:</strong>
     <ul>
       <li>
-        <em>airm</em>. An ecosystem for managing AI coding agent context at an enterprise/orgazational level.
+        <em>airm</em>. An ecosystem for managing AI coding agent compliance and context at an enterprise level. Simple enough for vibe coders and featureful enough for huge engineering teams.
       </li>
     </ul>
   </div>
